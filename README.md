@@ -10,6 +10,13 @@ This version recreates the same idea in **x86 Assembly**. It was built with
 directly to VGA Mode 13h video memory at `A000:0000`, using a 320 x 200
 resolution with 256 colours.
 
+## Video
+
+
+https://github.com/user-attachments/assets/8bafa2f1-d00e-4ae6-bee0-83ab9ec80720
+
+
+
 ## Requirements
 
 - [DOSBox-X](https://dosbox-x.com/) (or its
